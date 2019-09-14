@@ -1,2 +1,6 @@
 # hello-world
 My first repository with guide
+
+I'm a Student in LiaoNing,Shenyang...
+I'm interested in Github......
+2019.09.14
